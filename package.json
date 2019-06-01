@@ -6,7 +6,7 @@
   "homepage": "https://github.com/browserless/testcafe-browser-provider-browserless",
   "author": {
     "name": "Joel Griffith",
-    "email": "joel.griffith@elastic.co",
+    "email": "joel@browserless.io",
     "url": "https://browserless.io"
   },
   "main": "lib/index",
