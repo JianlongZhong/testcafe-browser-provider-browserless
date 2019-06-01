@@ -1,0 +1,27 @@
+{
+  "name": "testcafe-browser-provider-browserless",
+  "version": "1.0.0",
+  "description": "browserless TestCafe browser provider plugin.",
+  "repository": "https://github.com/browserless/testcafe-browser-provider-browserless",
+  "homepage": "https://github.com/browserless/testcafe-browser-provider-browserless",
+  "author": {
+    "name": "Joel Griffith",
+    "email": "joel.griffith@elastic.co",
+    "url": "https://browserless.io"
+  },
+  "main": "lib/index",
+  "files": [
+    "lib"
+  ],
+  "scripts": {},
+  "keywords": [
+    "testcafe",
+    "browser provider",
+    "plugin"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer-core": "^1.17.0"
+  },
+  "devDependencies": {}
+}
