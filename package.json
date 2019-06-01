@@ -1,6 +1,6 @@
 {
   "name": "testcafe-browser-provider-browserless",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "browserless TestCafe browser provider plugin.",
   "repository": "https://github.com/browserless/testcafe-browser-provider-browserless",
   "homepage": "https://github.com/browserless/testcafe-browser-provider-browserless",
